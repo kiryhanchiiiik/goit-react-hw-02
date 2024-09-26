@@ -1,0 +1,7 @@
+.feedbackList {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  list-style-type: none;
+  padding: 0;
+}
